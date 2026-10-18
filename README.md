@@ -6,7 +6,8 @@ A web-based Generative AI application that creates tailored weekly meal plans an
 
 ## 🚀 Live Demo
 
-- **Live Deployment:** (https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-691wqdhh)
+- **Live Deployment:** https://bolt.new/~/sb1-691wqdhh
+- 
 - 
 - **GitHub Repository:** https://github.com/raghavruhanistudy-coder/ai-diet-planner
 
